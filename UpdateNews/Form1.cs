@@ -15,6 +15,7 @@ namespace UpdateNews
         public Form1()
         {
             InitializeComponent();
+            var sys = new System();
         }
 
     }
